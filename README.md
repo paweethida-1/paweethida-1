@@ -1,7 +1,7 @@
 
 # 👩‍💻 Paweethida Khamsaenthan  
 🎓 4th-year Software Engineering student at **Mae Fah Luang University**  
-🌱 Passionate about **AI/ML, Data Science, Optics, UX/UI Design, and Fullstack Development**  
+🌱 Passionate about **AI/ML, Data Science, Optics, UX/UI Design, and Front-end**  
 
 ---
 
@@ -12,7 +12,6 @@
 - **Specialized Areas:**  
   - Data Analysis & Visualization  
   - Machine Learning Model Development & Evaluation  
-  - Fullstack Web & Mobile Development  
   - API Integration & Cloud Deployment  
   - UX/UI Research & Prototyping  
 

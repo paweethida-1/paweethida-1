@@ -1,7 +1,7 @@
 
 # 👩‍💻 Paweethida Khamsaenthan  
 🎓 4th-year Software Engineering student at **Mae Fah Luang University**  
-🌱 Passionate about **AI/ML, Data Science, Optics, UX/UI Design, and Front-end**  
+🌱 Passionate about UX/UI Design, and Front-end**  
 email : paweethidakham@gmail.com
 ---
 
